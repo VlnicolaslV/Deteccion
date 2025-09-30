@@ -1,0 +1,16 @@
+Instrucciones trabajo 26 de septiembre
+
+El sigueinte trabajo considera hacer un informe de una sola pagina que tenga como resultado la detección del jinete y su caballo utilizando el algoritmo YOLO mediante Python. Lo que debe identificar es el Jinete que esta en la delantera solamente entregandon un recuadro rectangular identificandolo. 
+
+El informe debe ser sola una pagina con los siguientes elementos
+
+- Nombres de los participantes
+- Imagen con la identificación 
+- Descripción de lo detectado
+- Link de su repositorio en GitHub con los resultados de sus algoritmos.
+
+
+Fuentes 
+
+https://docs.ultralytics.com/es/#yolo-licenses-how-is-ultralytics-yolo-licensed
+https://www.v7labs.com/blog/yolo-object-detection
