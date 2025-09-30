@@ -1,3 +1,5 @@
+Actividad Deteccion Machine Learning
+
 El algoritmo logró identificar al jinete que se encuentra en la delantera dentro de la carrera de caballos. Utilizando el modelo de detección YOLOv8, primero se detectaron todas las personas (jinetes) presentes en la imagen y, posteriormente, se aplicó un criterio adicional que selecciona únicamente al competidor que aparece más adelantado, definido como aquel cuya caja delimitadora (bounding box) llega más abajo en la imagen (coordenada y2 más grande).
 
 El resultado final es una imagen procesada donde únicamente el jinete delantero está marcado con un rectángulo azul y la etiqueta “Jinete Delantero”, descartando al resto de los jinetes detectados.
