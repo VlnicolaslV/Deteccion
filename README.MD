@@ -28,4 +28,4 @@ Selección del jinete delantero
 Entre todos los jinetes detectados, se eligió al que está más adelante en la carrera, definido como el que tiene la coordenada vertical inferior (y2) más grande.
 
 Visualización y guardado
-Sobre el jinete delantero se dibujó un rectángulo azul con la etiqueta “Jinete Delantero”. La imagen final fue mostrada en pantalla y guardada como resultado.jpg.
+Sobre el jinete delantero se dibujó un rectángulo rojo con la etiqueta “Jinete Delantero”. La imagen final fue mostrada en pantalla y guardada como resultado.jpg.
